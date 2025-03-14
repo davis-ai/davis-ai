@@ -73,13 +73,13 @@ Let’s connect and turn problems into possibilities. 🚀
 
 <h2 align="left"> 🛠️ Skills </h2> 
 
-<h3 align="left"> **Data Science & Algorithms** :</h3> Machine Learning, Statistical Modeling & Predictive Analytics Algorithm Design & Optimization (Competitive Programming, LeetCode)
+ **Data Science & Algorithms** : Machine Learning, Statistical Modeling & Predictive Analytics Algorithm Design & Optimization (Competitive Programming, LeetCode)
 
-<h3 align="left"> **Engineering & Development** :</h3> Full-Stack Development, Cloud Architecture, Database Systems.
+ **Engineering & Development** : Full-Stack Development, Cloud Architecture, Database Systems.
 
-<h3 align="left"> **Design & Creativity** :</h3> UI/UX Prototyping, Data Visualization, Technical Writing & Visual Storytelling
+ **Design & Creativity** : UI/UX Prototyping, Data Visualization, Technical Writing & Visual Storytelling
 
-<h3 align="left"> **Philosophy & Critical Thinking** :</h3> Ethics of AI & Technology, Systems Thinking & First-Principles Reasoning, Bridging Logic with Human-Centered Design
+ **Philosophy & Critical Thinking** : Ethics of AI & Technology, Systems Thinking & First-Principles Reasoning, Bridging Logic with Human-Centered Design
 
 **Always Learning**
 
