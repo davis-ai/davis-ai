@@ -39,13 +39,13 @@ Let’s connect and turn problems into possibilities. 🚀
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 
 <h2 align="left">🧑‍💻 Tech Stack</h2>
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) <!-- Added C -->
 
 ### Tools & Frameworks
 
@@ -53,11 +53,15 @@ Let’s connect and turn problems into possibilities. 🚀
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) <!-- Added React Native -->
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) <!-- Added Next.js -->
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) <!-- Added PostgreSQL -->
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) <!-- Added Redis -->
 
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( Skills Section )
