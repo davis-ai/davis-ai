@@ -1,6 +1,6 @@
-![banner](/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png)
+# ![banner](/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png)
 
-<h2 align="left">Hi 👋! My name is Davis  Ochieng <br><br>I am a Computer Science Graduate 📚 | Passionate Developer 💻 |  Open Source Enthusiast 🚀</h2>
+<h2 align="left">Hi 👋! My name is Davis  Ochieng <br><br>I am a Computer Science Graduate | Passionate Developer |  Open Source Enthusiast </h2>
 
 ###
 
@@ -13,7 +13,26 @@
 
 <h2 align="left">🧑‍💻 Tech Stack</h2>
 
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Tools & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,6 +59,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+
 
 ###
 
