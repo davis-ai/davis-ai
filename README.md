@@ -1,3 +1,5 @@
+![banner](/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png)
+
 <h2 align="left">Hi 👋! My name is Davis  Ochieng <br><br>I am a Computer Science Graduate 📚 | Passionate Developer 💻 |  Open Source Enthusiast 🚀</h2>
 
 ###
