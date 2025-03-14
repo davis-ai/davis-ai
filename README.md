@@ -39,6 +39,7 @@ Let’s connect and turn problems into possibilities. 🚀
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 
 <h2 align="left">🧑‍💻 Tech Stack</h2>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
