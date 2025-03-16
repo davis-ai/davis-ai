@@ -90,7 +90,12 @@ Let’s connect and turn problems into possibilities. 🚀
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/davis-ai/davis-ai/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davis-ai/davis-ai/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/davis-ai/davis-ai/output/snake-light.svg" alt="Snake animation">
+</picture>
+
+###
 
 ###
 
