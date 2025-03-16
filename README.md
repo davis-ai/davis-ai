@@ -7,6 +7,9 @@
 <h2 align="left">Hi 👋! My name is Davis  Ochieng </h2>
 💻 Computer Science Graduate | 🧠 Machine Learning Enthusiast | 🔧 Open Source Contributor
 
+
+
+
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( About Section )
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
@@ -14,6 +17,9 @@
 ## 🚀 About Me
 
 I’m a **data scientist** and **problem-solver** with a hacker’s curiosity and an artist’s eye. I thrive where logic meets creativity—transforming raw data into actionable insights 🧮, designing algorithms that feel like elegant poetry ✍️, and crafting user experiences as intuitive as a conversation. My background in computer science fuels my love for dissecting complexity, while my passion for philosophy and art reminds me that every line of code should mean something to real people. Whether I’m optimizing machine learning models, sketching UI prototypes, or debating the ethics of AI over coffee ☕, I’m driven by one question: How do we build technology that’s as human as it is groundbreaking? Let’s create solutions that don’t just work—they resonate.
+
+
+
 
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( Stats Section )
@@ -33,6 +39,8 @@ I’m a **data scientist** and **problem-solver** with a hacker’s curiosity an
 **Passions** : Ethical Tech | Visual Storytelling | Cross-Disciplinary Innovation
 
 Let’s connect and turn problems into possibilities. 🚀
+
+
 
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( Tech - Stack Section )
@@ -64,6 +72,9 @@ Let’s connect and turn problems into possibilities. 🚀
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) <!-- Added PostgreSQL -->
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) <!-- Added Redis -->
 
+
+
+
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( Skills Section )
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
@@ -81,6 +92,9 @@ Let’s connect and turn problems into possibilities. 🚀
 **Always Learning**
 
 - _Rust | Quantum Computing Basics | Game Dev (Unity)_
+
+
+
 
 [comment]: <> (------------------------------------------------------------------------------------------------------------------------)
 [comment]: <> ( Snake Section )
