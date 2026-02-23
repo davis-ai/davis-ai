@@ -122,6 +122,8 @@ Let’s connect and turn problems into possibilities. 🚀
 [comment]: # "                                           Feats Section                                                                "
 [comment]: # "------------------------------------------------------------------------------------------------------------------------"
 
+</br>
+
 <h2 align="left"> 🏆 Feat </h2>
 
 - Wrote a filesystem ( exFat ) for a usb stick in zorin os ( Linux : ubuntu ).
